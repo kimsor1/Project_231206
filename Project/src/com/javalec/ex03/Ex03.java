@@ -8,7 +8,7 @@ public class Ex03 {
 	
 	/*
 	 * Description : 입력한 숫자부터 4개를 증가하여 화면 가로롤 구구단을 표시하기 , 단 (FOR)문은 한번만 사용.
-	 * Date : 2023 . 12 . 06  /Wednesday
+	 * Date : 2023.12.06 .수요일
 	 * Version : 1.0
 	 * Author : 강범식
 	 */
