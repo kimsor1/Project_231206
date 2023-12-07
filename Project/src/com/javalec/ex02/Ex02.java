@@ -2,11 +2,12 @@ package com.javalec.ex02;
 
 public class Ex02 {
 	
-	// main 출력값
-//	System.out.print("Input your decimal no. : ");
-//	int facNum = sc.nextInt();
-//	Ex02 ex02 = new Ex02(facNum);
-	
+/*	
+	Description :  입력한 수의 Factorial 구하기 
+	Date :	2023.12.06.수요일
+	Version : 1.0
+	Author : Woody Jo
+*/
 
 	// Field
 	int num;				// constructor의 parameter를 넣기 위한 인트 변수 설정
