@@ -10,6 +10,13 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		/*	
+		Description : 숫자를 입력받아 해당 문제를 출력해주는 프로그램
+		Date : 23.12.06
+		Version : 1.0
+		Author : 김소리
+		*/
 
 		Scanner sc = new Scanner(System.in);
 
