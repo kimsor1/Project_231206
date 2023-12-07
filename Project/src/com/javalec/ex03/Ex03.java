@@ -5,9 +5,14 @@ public class Ex03 {
 	
 	
 	
-	// 입력한 숫자부터 4개를 증가하여 화면 가로롤 구구단을 표시하기   (FOR)문 한번만 사용.
-
 	
+	/*
+	 * Description : 입력한 숫자부터 4개를 증가하여 화면 가로롤 구구단을 표시하기 , 단 (FOR)문은 한번만 사용.
+	 * Date : 2023 . 12 . 06  /Wednesday
+	 * Version : 1.0
+	 * Author : 강범식
+	 */
+					
 	 
 	//Field
 	        int num1 =0;    //입력변수지정
@@ -32,7 +37,7 @@ public class Ex03 {
 	     
 	     
 	 //Method    
-	   public void ex03() {									//객체변수 esx03
+	   public void ex03() {									//객체변수 esx03 지정
 		   
 		   
 	   
@@ -41,7 +46,7 @@ public class Ex03 {
 	    	 System.out.print(i + "x" + e + "=" + (i*e) + "\t\t" );   //출력문
 	    	 if ( i  == num1 +3   ) {                                   //구구단 루프 시키기
 	    		e++;
-	    		 i = num1-1;
+	    		 i = num1-1;											
 	    		 
 	    		 System.out.println();									//줄띄기
 	             
